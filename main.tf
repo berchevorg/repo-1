@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "berchevorg"
+    organization = "twentyfour24"
 
     workspaces {
       name = "repo-1"
